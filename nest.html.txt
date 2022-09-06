@@ -1,0 +1,36 @@
+<script>
+        var ourpet = [
+            
+        {
+            animalType : "cat",
+            name:[
+                'meowzer',
+                'fluffy',
+                'kit-cat'
+            ]
+        },
+        {
+            animalType : 'dog',
+            name:[
+                'meowzer',
+                'fluffy',
+                'kit-god'
+            ]
+        },
+        {
+            animalType : 'parrot',
+            name:[
+                'meowzer',
+                'fluffy',
+                'kit-parrot'
+            ]
+        },
+
+           ];
+        //    ourpet[0].name[1]; // fluffy
+        //    ourpet[1].name[0]; // spot
+
+        var secondTree = myPlanets[1].list[1];
+        console.log(secondTree);
+
+    </script>
